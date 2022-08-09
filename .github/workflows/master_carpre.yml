@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CARPRE'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5ED3350670042A688C8D5FBFE688D0F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09257512A0994CE69DB61BC336BF24E3 }}
