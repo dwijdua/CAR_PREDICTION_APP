@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CARPredic'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9AD049BFCF54F5A8E5AD55D53AE37B9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D5E557A169B49D193535315B9FBA644 }}
